@@ -1,0 +1,2 @@
+# isTakipStajProjesi
+Yazılım Staj Projesi
